@@ -21,7 +21,9 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2     
+    
     - name: Hugo Blog Builder
-    - uses: Skarlso/blog-builder@v0.0.2
+    - run: Skarlso/blog-builder@v0.0.2
+    
     - name: Hugo Blog Publisher
-    - uses: Skarlso/blog-publisher@v0.0.2
+    - run: Skarlso/blog-publisher@v0.0.2
