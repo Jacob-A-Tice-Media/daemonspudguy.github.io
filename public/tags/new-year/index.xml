@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Year on My New Hugo Site</title>
+    <link>http://example.org/tags/new-year/</link>
+    <description>Recent content in New Year on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jul 2019 23:40:45 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/new-year/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mid-Year Thoughts!</title>
+      <link>http://example.org/mid-year-thoughts/</link>
+      <pubDate>Sat, 27 Jul 2019 23:40:45 +0000</pubDate>
+      
+      <guid>http://example.org/mid-year-thoughts/</guid>
+      <description>So far, this year has been a mixed bag. My YouTube channel lost comments, which you can learn about here, my school year went unfinished, I only got to be at my Dad&amp;rsquo;s place for a week (my dad hosts this site, in case you were wondering), and my legal guardians were in Italy for 2 weeks. On the plus side, my Twitter account was reinstated, I got an old computer from the school I go to, and I will be going to Ontario in August.</description>
+    </item>
+    
+    <item>
+      <title>Happy Same Year 2018!</title>
+      <link>http://example.org/happy-same-year-2018/</link>
+      <pubDate>Fri, 05 Jan 2018 00:18:12 +0000</pubDate>
+      
+      <guid>http://example.org/happy-same-year-2018/</guid>
+      <description>Happy New Year! [youtube]https://www.youtube.com/watch?v=LoLPT3SDosU[/youtube] It&amp;rsquo;s 2018, and I&amp;rsquo;m the only one who is not excited since I know it will end up with the same mistakes as 2017. First of all, the President of the United States of the Asshats, Donald Trump, is still going to be president until 2021, unless he wins again in 2020 which will make the end be 2025. Next, the Internet will get even more neutered since net neutrality is no longer existing in this country.</description>
+    </item>
+    
+  </channel>
+</rss>
