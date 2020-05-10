@@ -2,310 +2,310 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>http://jacobatice.com/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Apr 2020 17:07:16 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jacobatice.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.org/338/</link>
+      <link>http://jacobatice.com/338/</link>
       <pubDate>Thu, 23 Apr 2020 17:07:16 +0000</pubDate>
       
-      <guid>http://example.org/338/</guid>
+      <guid>http://jacobatice.com/338/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Friendica Page</title>
-      <link>http://example.org/friendica-page/</link>
+      <link>http://jacobatice.com/friendica-page/</link>
       <pubDate>Thu, 23 Apr 2020 17:06:11 +0000</pubDate>
       
-      <guid>http://example.org/friendica-page/</guid>
+      <guid>http://jacobatice.com/friendica-page/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/335/</link>
+      <link>http://jacobatice.com/335/</link>
       <pubDate>Thu, 23 Apr 2020 17:06:09 +0000</pubDate>
       
-      <guid>http://example.org/335/</guid>
+      <guid>http://jacobatice.com/335/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>http://example.org/home/</link>
+      <link>http://jacobatice.com/home/</link>
       <pubDate>Thu, 23 Apr 2020 17:06:07 +0000</pubDate>
       
-      <guid>http://example.org/home/</guid>
+      <guid>http://jacobatice.com/home/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This website might disappear</title>
-      <link>http://example.org/this-website-might-disappear/</link>
+      <link>http://jacobatice.com/this-website-might-disappear/</link>
       <pubDate>Wed, 05 Feb 2020 22:24:11 +0000</pubDate>
       
-      <guid>http://example.org/this-website-might-disappear/</guid>
+      <guid>http://jacobatice.com/this-website-might-disappear/</guid>
       <description>So if weren&amp;rsquo;t aware, my dad hosts this website and owns the domain. However, he is not going to renew it for 2021, so this website might disappear next year. I&amp;rsquo;m really sorry about this.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/330/</link>
+      <link>http://jacobatice.com/330/</link>
       <pubDate>Fri, 24 Jan 2020 13:06:53 +0000</pubDate>
       
-      <guid>http://example.org/330/</guid>
+      <guid>http://jacobatice.com/330/</guid>
       <description>So I just did a political compass test available at politicalcompass.org and here are my results. They&amp;rsquo;re about what I expected. </description>
     </item>
     
     <item>
       <title>End of 2019 Thoughts</title>
-      <link>http://example.org/end-of-2019-thoughts/</link>
+      <link>http://jacobatice.com/end-of-2019-thoughts/</link>
       <pubDate>Wed, 01 Jan 2020 23:05:57 +0000</pubDate>
       
-      <guid>http://example.org/end-of-2019-thoughts/</guid>
+      <guid>http://jacobatice.com/end-of-2019-thoughts/</guid>
       <description>I am writing this post mainly to vent about personal things that happened in 2019. 2019 was fucking dreadful as a year. I was in a constant state of depression and misery. It was barely better than 2018, the worst year of my life. 2019 was the year I had to waste my summer completing schoolwork that I got no help on, hence why I did it in summer. You see, at the end of 2018 Fort Frye made the decision to dump me into an online program called K12.</description>
     </item>
     
     <item>
       <title>Free Assange!</title>
-      <link>http://example.org/free-assange/</link>
+      <link>http://jacobatice.com/free-assange/</link>
       <pubDate>Wed, 01 Jan 2020 22:57:58 +0000</pubDate>
       
-      <guid>http://example.org/free-assange/</guid>
+      <guid>http://jacobatice.com/free-assange/</guid>
       <description>In case you didn&amp;rsquo;t know, Julian Assange has been imprisoned in London for allegedly violating his bail terms. This was just after Ecuador decided to remove his asylum status. He was arrested under orders from US, because WikiLeaks has information about CIA Project Vault 7, a mass surveillance program. Assange is being charged for hosting content documenting the illegal actions being performed on unaware citizens. How about you arrest the heads of the CIA?</description>
     </item>
     
     <item>
       <title>wp-starter</title>
-      <link>http://example.org/wp-starter/</link>
+      <link>http://jacobatice.com/wp-starter/</link>
       <pubDate>Mon, 29 Jul 2019 18:09:10 +0000</pubDate>
       
-      <guid>http://example.org/wp-starter/</guid>
+      <guid>http://jacobatice.com/wp-starter/</guid>
       <description>/* ## Comments &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; */ .comment-respond, .entry-pings, .entry-comments { color: #fff; padding: 20px 45px 40px 45px; border: 1px solid #ccc; overflow: hidden; background: #0a0a0a; -webkit-box-shadow: 0px 0px 8px rgba(0,0,0,0.3); -moz-box-shadow: 0px 0px 8px rgba(0,0,0,0.3); box-shadow: 0px 0px 8px rgba(0,0,0,0.3); border-left: 4px solid #444; } .entry-comments h3{ font-size: 30px; margin-bottom: 30px; } .comment-respond h3, .entry-pings h3{ font-size: 20px; margin-bottom: 30px; } .comment-respond { padding-bottom: 5%; margin: 20px 1px 20px 1px; border-left: none !</description>
     </item>
     
     <item>
       <title>wp-forge</title>
-      <link>http://example.org/wp-forge/</link>
+      <link>http://jacobatice.com/wp-forge/</link>
       <pubDate>Mon, 29 Jul 2019 17:44:21 +0000</pubDate>
       
-      <guid>http://example.org/wp-forge/</guid>
+      <guid>http://jacobatice.com/wp-forge/</guid>
       <description>/* ## Comments &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; */ .comment-respond, .entry-pings, .entry-comments { color: #fff; padding: 20px 45px 40px 45px; border: 1px solid #ccc; overflow: hidden; background: #0a0a0a; -webkit-box-shadow: 0px 0px 8px rgba(0,0,0,0.3); -moz-box-shadow: 0px 0px 8px rgba(0,0,0,0.3); box-shadow: 0px 0px 8px rgba(0,0,0,0.3); border-left: 4px solid #444; } .entry-comments h3{ font-size: 30px; margin-bottom: 30px; } .comment-respond h3, .entry-pings h3{ font-size: 20px; margin-bottom: 30px; } .comment-respond { padding-bottom: 5%; margin: 20px 1px 20px 1px; border-left: none !</description>
     </item>
     
     <item>
       <title>Mid-Year Thoughts!</title>
-      <link>http://example.org/mid-year-thoughts/</link>
+      <link>http://jacobatice.com/mid-year-thoughts/</link>
       <pubDate>Sat, 27 Jul 2019 23:40:45 +0000</pubDate>
       
-      <guid>http://example.org/mid-year-thoughts/</guid>
+      <guid>http://jacobatice.com/mid-year-thoughts/</guid>
       <description>So far, this year has been a mixed bag. My YouTube channel lost comments, which you can learn about here, my school year went unfinished, I only got to be at my Dad&amp;rsquo;s place for a week (my dad hosts this site, in case you were wondering), and my legal guardians were in Italy for 2 weeks. On the plus side, my Twitter account was reinstated, I got an old computer from the school I go to, and I will be going to Ontario in August.</description>
     </item>
     
     <item>
       <title>Activate</title>
-      <link>http://example.org/activate/</link>
+      <link>http://jacobatice.com/activate/</link>
       <pubDate>Wed, 24 Jul 2019 21:33:38 +0000</pubDate>
       
-      <guid>http://example.org/activate/</guid>
+      <guid>http://jacobatice.com/activate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Activity</title>
-      <link>http://example.org/activity/</link>
+      <link>http://jacobatice.com/activity/</link>
       <pubDate>Wed, 24 Jul 2019 21:33:37 +0000</pubDate>
       
-      <guid>http://example.org/activity/</guid>
+      <guid>http://jacobatice.com/activity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Members</title>
-      <link>http://example.org/members/</link>
+      <link>http://jacobatice.com/members/</link>
       <pubDate>Wed, 24 Jul 2019 21:33:37 +0000</pubDate>
       
-      <guid>http://example.org/members/</guid>
+      <guid>http://jacobatice.com/members/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Register</title>
-      <link>http://example.org/register/</link>
+      <link>http://jacobatice.com/register/</link>
       <pubDate>Wed, 24 Jul 2019 21:33:37 +0000</pubDate>
       
-      <guid>http://example.org/register/</guid>
+      <guid>http://jacobatice.com/register/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Obligatory Reminder to Subscribe to Me On YouTube</title>
-      <link>http://example.org/obligatory-reminder-to-subscribe-to-me-on-youtube/</link>
+      <link>http://jacobatice.com/obligatory-reminder-to-subscribe-to-me-on-youtube/</link>
       <pubDate>Tue, 23 Jul 2019 21:17:21 +0000</pubDate>
       
-      <guid>http://example.org/obligatory-reminder-to-subscribe-to-me-on-youtube/</guid>
+      <guid>http://jacobatice.com/obligatory-reminder-to-subscribe-to-me-on-youtube/</guid>
       <description>I need your help on YouTube. Subscribe to me here.</description>
     </item>
     
     <item>
       <title>Untitled Reusable Block</title>
-      <link>http://example.org/untitled-reusable-block/</link>
+      <link>http://jacobatice.com/untitled-reusable-block/</link>
       <pubDate>Tue, 23 Jul 2019 21:16:29 +0000</pubDate>
       
-      <guid>http://example.org/untitled-reusable-block/</guid>
+      <guid>http://jacobatice.com/untitled-reusable-block/</guid>
       <description>I need your help on YouTube. Subscribe to me here</description>
     </item>
     
     <item>
       <title>Twitter Account Banned</title>
-      <link>http://example.org/twitter-account-banned/</link>
+      <link>http://jacobatice.com/twitter-account-banned/</link>
       <pubDate>Mon, 04 Feb 2019 15:30:31 +0000</pubDate>
       
-      <guid>http://example.org/twitter-account-banned/</guid>
+      <guid>http://jacobatice.com/twitter-account-banned/</guid>
       <description>My old twitter account was banned, but I updated the redirect link. New account here
 EDIT: Since this post has been up, I have gotten it back. The link is the same.</description>
     </item>
     
     <item>
       <title>Twitter</title>
-      <link>http://example.org/twitter/</link>
+      <link>http://jacobatice.com/twitter/</link>
       <pubDate>Tue, 20 Nov 2018 23:52:41 +0000</pubDate>
       
-      <guid>http://example.org/twitter/</guid>
+      <guid>http://jacobatice.com/twitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>http://jacobatice.com/about/</link>
       <pubDate>Sun, 18 Feb 2018 23:06:19 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>http://jacobatice.com/about/</guid>
       <description>This is an example of a page. Unlike posts, which are displayed on your blog’s front page in the order they’re published, pages are better suited for more timeless content that you want to be easily accessible, like your About or Contact information. Click the Edit link to make changes to this page or add another page.</description>
     </item>
     
     <item>
       <title>My Magnum Opus is finished!</title>
-      <link>http://example.org/my-magnum-opus-is-finished-comments/</link>
+      <link>http://jacobatice.com/my-magnum-opus-is-finished-comments/</link>
       <pubDate>Sat, 03 Feb 2018 01:23:24 +0000</pubDate>
       
-      <guid>http://example.org/my-magnum-opus-is-finished-comments/</guid>
+      <guid>http://jacobatice.com/my-magnum-opus-is-finished-comments/</guid>
       <description>MaxineKovash - Jan 2, 2020made good content as you did, the internet will be a lot more useful than ever</description>
     </item>
     
     <item>
       <title>My Magnum Opus is finished!</title>
-      <link>http://example.org/my-magnum-opus-is-finished/</link>
+      <link>http://jacobatice.com/my-magnum-opus-is-finished/</link>
       <pubDate>Sat, 03 Feb 2018 01:23:24 +0000</pubDate>
       
-      <guid>http://example.org/my-magnum-opus-is-finished/</guid>
+      <guid>http://jacobatice.com/my-magnum-opus-is-finished/</guid>
       <description>My book, 50,000 Meatloaves, is completed. Download the PDF file here</description>
     </item>
     
     <item>
       <title>Happy Same Year 2018!</title>
-      <link>http://example.org/happy-same-year-2018/</link>
+      <link>http://jacobatice.com/happy-same-year-2018/</link>
       <pubDate>Fri, 05 Jan 2018 00:18:12 +0000</pubDate>
       
-      <guid>http://example.org/happy-same-year-2018/</guid>
+      <guid>http://jacobatice.com/happy-same-year-2018/</guid>
       <description>Happy New Year! [youtube]https://www.youtube.com/watch?v=LoLPT3SDosU[/youtube] It&amp;rsquo;s 2018, and I&amp;rsquo;m the only one who is not excited since I know it will end up with the same mistakes as 2017. First of all, the President of the United States of the Asshats, Donald Trump, is still going to be president until 2021, unless he wins again in 2020 which will make the end be 2025. Next, the Internet will get even more neutered since net neutrality is no longer existing in this country.</description>
     </item>
     
     <item>
       <title>Welcome to my site</title>
-      <link>http://example.org/welcome/</link>
+      <link>http://jacobatice.com/welcome/</link>
       <pubDate>Fri, 10 Feb 2017 21:37:08 +0000</pubDate>
       
-      <guid>http://example.org/welcome/</guid>
+      <guid>http://jacobatice.com/welcome/</guid>
       <description>Welcome to my website. Here you find updates to my youtube channel and soundcloud, among other things.</description>
     </item>
     
     <item>
       <title>Page of Violin Strangeness</title>
-      <link>http://example.org/page-of-violin-strangeness/</link>
+      <link>http://jacobatice.com/page-of-violin-strangeness/</link>
       <pubDate>Thu, 24 Nov 2016 02:10:38 +0000</pubDate>
       
-      <guid>http://example.org/page-of-violin-strangeness/</guid>
+      <guid>http://jacobatice.com/page-of-violin-strangeness/</guid>
       <description>Introduction The violin (violin) is a kind of a super clean orchestra played to ring carry instruments. It is widely spread all over the world, is the modern orchestra string of the main instrument. In the music it plays very important position, is the pillar of the modern symphony orchestra, but also has the difficult playing skills solo instrument. The emergence of modern violin has been 300 years of history, is the western music since the 17th century in one of the most important instruments as the instrument queen, was also the production is itself a gate violin for fine art.</description>
     </item>
     
     <item>
       <title>Not dead</title>
-      <link>http://example.org/not-dead/</link>
+      <link>http://jacobatice.com/not-dead/</link>
       <pubDate>Fri, 11 Nov 2016 01:35:24 +0000</pubDate>
       
-      <guid>http://example.org/not-dead/</guid>
+      <guid>http://jacobatice.com/not-dead/</guid>
       <description>I am not dead. In fact, my album is now released. Enjoy</description>
     </item>
     
     <item>
       <title>My new album</title>
-      <link>http://example.org/my-new-album/</link>
+      <link>http://jacobatice.com/my-new-album/</link>
       <pubDate>Sat, 03 Sep 2016 20:30:21 +0000</pubDate>
       
-      <guid>http://example.org/my-new-album/</guid>
+      <guid>http://jacobatice.com/my-new-album/</guid>
       <description>I am formally announcing my album My album info. (still a work in progress)</description>
     </item>
     
     <item>
       <title>New Streamsized Video</title>
-      <link>http://example.org/new-streamsized-video/</link>
+      <link>http://jacobatice.com/new-streamsized-video/</link>
       <pubDate>Thu, 23 Jun 2016 21:06:57 +0000</pubDate>
       
-      <guid>http://example.org/new-streamsized-video/</guid>
+      <guid>http://jacobatice.com/new-streamsized-video/</guid>
       <description>For those of you who love Vinesauce Joel.[embedyt] http://www.youtube.com/watch?v=1OezRfg-dWg[/embedyt]</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/21-comments/</link>
+      <link>http://jacobatice.com/21-comments/</link>
       <pubDate>Fri, 21 Aug 2015 13:00:52 +0000</pubDate>
       
-      <guid>http://example.org/21-comments/</guid>
+      <guid>http://jacobatice.com/21-comments/</guid>
       <description>Mrs. Rowles - Sep 3, 2015You always make me smile! Best student ever!</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/21/</link>
+      <link>http://jacobatice.com/21/</link>
       <pubDate>Fri, 21 Aug 2015 13:00:52 +0000</pubDate>
       
-      <guid>http://example.org/21/</guid>
+      <guid>http://jacobatice.com/21/</guid>
       <description>I have A NEw Mic. I am testing it in this video [embedyt]http://www.youtube.com/watch?v=dAuHPg2vdmQ[/embedyt]</description>
     </item>
     
     <item>
       <title>Listen to my podcasts</title>
-      <link>http://example.org/listen-to-my-podcasts/</link>
+      <link>http://jacobatice.com/listen-to-my-podcasts/</link>
       <pubDate>Sat, 06 Jun 2015 17:37:07 +0000</pubDate>
       
-      <guid>http://example.org/listen-to-my-podcasts/</guid>
+      <guid>http://jacobatice.com/listen-to-my-podcasts/</guid>
       <description>Please go listen to my podcasts at http://soundcloud.com/jacob-alexander-tice</description>
     </item>
     
     <item>
       <title>Welcome to Your New Awesome blog, Jacob</title>
-      <link>http://example.org/welcome-to-your-new-awesome-blog-jacob/</link>
+      <link>http://jacobatice.com/welcome-to-your-new-awesome-blog-jacob/</link>
       <pubDate>Sat, 23 May 2015 22:30:45 +0000</pubDate>
       
-      <guid>http://example.org/welcome-to-your-new-awesome-blog-jacob/</guid>
+      <guid>http://jacobatice.com/welcome-to-your-new-awesome-blog-jacob/</guid>
       <description>Heyo, welcome to a new blog made by Jacob!!!</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about-2/</link>
+      <link>http://jacobatice.com/about-2/</link>
       <pubDate>Sat, 23 May 2015 21:22:30 +0000</pubDate>
       
-      <guid>http://example.org/about-2/</guid>
+      <guid>http://jacobatice.com/about-2/</guid>
       <description>Hi, this is Jacob Tice and this is about me. I live in Beverly, Ohio. That is all you need to know.</description>
     </item>
     
