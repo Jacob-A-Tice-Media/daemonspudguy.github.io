@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Main Menu on My New Hugo Site</title>
+    <link>http://jacobatice.com/tags/main-menu/</link>
+    <description>Recent content in Main Menu on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2020 17:07:16 +0000</lastBuildDate>
+    
+	<atom:link href="http://jacobatice.com/tags/main-menu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://jacobatice.com/338/</link>
+      <pubDate>Thu, 23 Apr 2020 17:07:16 +0000</pubDate>
+      
+      <guid>http://jacobatice.com/338/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friendica Page</title>
+      <link>http://jacobatice.com/friendica-page/</link>
+      <pubDate>Thu, 23 Apr 2020 17:06:11 +0000</pubDate>
+      
+      <guid>http://jacobatice.com/friendica-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jacobatice.com/335/</link>
+      <pubDate>Thu, 23 Apr 2020 17:06:09 +0000</pubDate>
+      
+      <guid>http://jacobatice.com/335/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://jacobatice.com/home/</link>
+      <pubDate>Thu, 23 Apr 2020 17:06:07 +0000</pubDate>
+      
+      <guid>http://jacobatice.com/home/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

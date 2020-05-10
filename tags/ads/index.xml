@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ads on My New Hugo Site</title>
+    <link>http://jacobatice.com/tags/ads/</link>
+    <description>Recent content in Ads on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2019 21:17:21 +0000</lastBuildDate>
+    
+	<atom:link href="http://jacobatice.com/tags/ads/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Obligatory Reminder to Subscribe to Me On YouTube</title>
+      <link>http://jacobatice.com/obligatory-reminder-to-subscribe-to-me-on-youtube/</link>
+      <pubDate>Tue, 23 Jul 2019 21:17:21 +0000</pubDate>
+      
+      <guid>http://jacobatice.com/obligatory-reminder-to-subscribe-to-me-on-youtube/</guid>
+      <description>I need your help on YouTube. Subscribe to me here.</description>
+    </item>
+    
+  </channel>
+</rss>
