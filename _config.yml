@@ -1,2 +1,16 @@
 theme: 
 title: "Jacob A. Tice Media"
+cayman-blog:
+  date_format: "%b %-d, %Y"
+  
+  
+plugins:
+  - jekyll-target-blank
+
+target-blank:
+    rel: nofollow
+
+header_page_refs: ['now', 'about', 'contact']
+
+twitter:
+  username: daemonspudguy
