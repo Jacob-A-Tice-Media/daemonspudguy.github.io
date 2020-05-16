@@ -1,7 +1,17 @@
+---
+#
+# Here you can change the text shown in the Home page before the Latest Posts section.
+#
+# Edit cayman-blog's home layout in _layouts instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
 
-Welcome to the WIP Jacob A. Tice Media page!
+Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
 
-{% assign date = '2020-04-13T10:20:00Z' %}
+This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
 
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
+Have a look at the Github page for more information.
+
+You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
