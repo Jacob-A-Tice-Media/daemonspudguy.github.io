@@ -8,6 +8,7 @@ cayman-blog:
   
 plugins:
   - jekyll-target-blank
+  - jekyll-redirect-from
 
 target-blank:
     rel: nofollow
